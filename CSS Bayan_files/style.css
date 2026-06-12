@@ -286,4 +286,8 @@ html {
     animation-duration: 1s;
     animation-fill-mode: forwards;
   }
+  
+  .item__img img {
+  border-radius: 8px;
+}
 }
